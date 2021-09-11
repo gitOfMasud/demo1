@@ -1,0 +1,58 @@
+@media only screen and (min-width:20rem) and (max-width:76.8rem){
+    .header .header_logo {width: 25rem;}
+    .header .form_area input {width: 11rem;padding: .1rem .8rem;}
+    .header .form_area .search {right: 11.5rem}
+    .header .header_menu ul li {padding: 1.3rem 1.3rem;margin-left: 1rem}
+    .slicknav_menu, .slicknav_menu * {display: block}
+    .common_container {display: none}
+    .main_slider {height: 30rem;}
+    .slide {height: 25rem;}
+    .secrices .secrices_child_2 .child_service .service_names .icon i {font-size: 3rem;margin-left: 1.5rem;}
+    .secrices .secrices_child_3 .child_service .service_provider .service_provider_child i {font-size: 4rem;}
+    .secrices .secrices_child_1 .child_service .img_box_1 img {width: 66%;height: 16rem;}
+    .secrices .secrices_child_1 .child_service .img_box_1 {border: none;outline: none;}
+    .secrices .secrices_child_1 .child_service h2 {font-size: 1.9rem;}
+    .secrices .secrices_child_2 .child_service h2 {font-size: 1.9rem;margin-top: 3rem;}
+    .secrices .secrices_child_3 .child_service h2 {font-size: 1.9rem;}
+    .Project_section .project_block .Project_section_child2 img {width: 18rem;}
+    .Project_section .project_block .Project_section_child3 img {width: 18rem;}
+    .Project_section .project_block .Project_section_child4 img {width: 18rem;}
+    .Project_section .project_block .Project_section_child1 h1 {font-size: 1.9rem;margin-bottom: 2rem;}
+    .contact_us .contact_block h2 {font-size: 1.9rem;}
+
+}
+@media only screen and (min-width:20rem) and (max-width:36rem){
+    *{font-size: 50%;}
+    .container{width: 40rem;}
+    .header {height: 23rem;}
+    .header_logo{text-align: center;}
+    .main_slider {height: 30rem;}
+    .slider{height: 30rem;}
+    .slide{height: 30rem;}
+    .bx-wrapper img {height: 25rem;}
+    element {height: 200px;}
+    .header .header_logo {width: 100%;}
+    .mobile_menu1{width: 60%; float: left;}
+    .col-md-4.mobile_menu2 {width: 40%;}
+    .header .form_area .search {right: 11.4rem;top: .3rem;}
+    .secrices .secrices_child_1 .child_service h2 {text-align: center;}
+    .img_box_1 {width: 100%;display: flex;justify-content: center;margin-bottom: -2rem;margin-top: 2rem; margin-left: 2rem;}
+    .secrices .secrices_child_2 .child_service h2 {text-align: center;}
+    .secrices .secrices_child_2 .child_service .service_names {display: grid;}
+    .secrices .secrices_child_2 .child_service .service_names .icon {margin: 0rem 0rem 2rem 15.2rem;}
+    .secrices .secrices_child_2 .child_service .service_names .para {width: 100%;margin-left: 0;text-align: center;}
+    .secrices .secrices_child_2 .child_service .service_names {display: grid;margin-bottom: 4rem;}
+    .Project_section .project_block .Project_section_child2 img {margin-left: 11%;}
+    .Project_section .project_block .Project_section_child3 img {margin-left: 11%;}
+    .Project_section .project_block .Project_section_child4 img {margin-left: 11%;}
+    .Project_section_child1 {width: 100%;}
+    .Project_section span{margin-left: -12%;}
+    .Project_section a{margin-left: 15%; margin-bottom: 2rem;}
+}
+
+@media only screen and (min-width:20rem) and (max-width:37.5rem){
+    .main_slider {height: 40rem;}
+    .bx-wrapper img {height: 30rem;}
+
+
+}
